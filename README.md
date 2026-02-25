@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 About me<br>      Name: Stefan Kasabov<br>      Age: 19<br>      Originally from: Gorna Oryahovitsa, Veliko Turnovo, Bulgaria<br>      Currently living in: Sofia, Bulgaria<br>      Interests: 💻Programming, 📖Reading, 🎮Games, 🚶‍♂️‍➡️walking and hiking<br><br><br>📚 Education (。﹏。*)<br>      •🎓Technical University of Sofia (since 2025) - Bachelor's in Cyber Security<br>      •🎒Nature and Mathematics High School "Vasil Drumev" (2020 - 2025) - Veliko Turnovo, Bulgaria | "Software and Hardware sciences"<br>
+📝 About me<br>      Name: Stefan Kasabov<br>      Age: 20<br>      Originally from: Gorna Oryahovitsa, Veliko Turnovo, Bulgaria<br>      Currently living in: Sofia, Bulgaria<br>      Interests: 💻Programming, 📖Reading, 🎮Games, 🚶‍♂️‍➡️walking and hiking<br><br><br>📚 Education (。﹏。*)<br>      •🎓Technical University of Sofia (since 2025) - Bachelor's in Cyber Security<br>      •🎒Nature and Mathematics High School "Vasil Drumev" (2020 - 2025) - Veliko Turnovo, Bulgaria | "Software and Hardware sciences"<br>
 
 
 ## 🌐 Socials:
